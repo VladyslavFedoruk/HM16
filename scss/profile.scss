@@ -89,7 +89,7 @@ z-index: 1;
 }
 
 .file::after{
-   content: url("/images/camera.svg");
+   content: url("./images/camera.svg");
    position: absolute;
 padding: 7px 8px 7px 114px;
 }
